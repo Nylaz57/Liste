@@ -1,1 +1,1 @@
-Liste avec pagination et barre recherche
+Liste avec pagination et barre de recherche
